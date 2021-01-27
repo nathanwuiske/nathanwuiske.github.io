@@ -1,0 +1,26 @@
+/src/.DS_Store
+/src/.thumbs.db
+/src/node_modules
+
+
+/src/.quasar
+
+# Capacitor related directories and files
+/src/src-capacitor/www
+/src/src-capacitor/node_modules
+
+# BEX related directories and files
+/src/src-bex/www
+/src/src-bex/js/core
+
+# Log files
+/src/npm-debug.log*
+/src/yarn-debug.log*
+/src/yarn-error.log*
+
+# Editor directories and files
+/src/.idea
+/src/*.suo
+/src/*.ntvs*
+/src/*.njsproj
+/src/*.sln
